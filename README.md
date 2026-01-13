@@ -1,2 +1,19 @@
-# Kenya_Maize_Yield_Risk_Analysis
-Data analytics and risk analysis of Kenya’s maize yields (2000–2023) using FAOSTAT data. Explores yield trends, volatility, downside risk, Yield-at-Risk (90% &amp; 95% Confidence Intervals ) and national yield loss implications for food security and policy.
+# Yield at Risk Analysis of Kenya’s Maize Production (2000–2023)
+
+This project analyses Kenya’s maize yield performance from a data analytics,
+actuarial risk, and food security perspective.
+
+Tools used:
+- SQL (PostgreSQL)
+- Power BI
+- Excel (light preprocessing)
+
+Key focus areas:
+- Yield trends and volatility
+- Downside risk and loss severity
+- Yield at Risk (90% and 95%)
+- National yield loss estimation
+
+Data source: FAOSTAT (updated Dec 22, 2025)
+
+Work in progress.
