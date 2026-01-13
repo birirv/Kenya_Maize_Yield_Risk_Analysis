@@ -17,3 +17,4 @@ Key focus areas:
 Data source: FAOSTAT (updated Dec 22, 2025)
 
 Work in progress.
+© 2026 Victor Kibirir - Kenya Maize Yield Risk Analysis Project
