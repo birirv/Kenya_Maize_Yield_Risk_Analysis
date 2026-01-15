@@ -1,7 +1,7 @@
 # Yield at Risk Analysis of Kenya’s Maize Production (2000–2023)
 
 This project analyses Kenya’s maize yield performance from a data analytics,
-actuarial risk, and food security perspective.
+statistical risk and food security perspective.
 
 Tools used:
 - SQL (PostgreSQL)
